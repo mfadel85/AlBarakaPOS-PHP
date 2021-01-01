@@ -50,8 +50,6 @@
 						</div>";
                 	}
                 ?>
-
-
                     <label class="col-sm-3 control-label" for="total">Tutar</label>
                     <div class="col-sm-3">
                         <input type="text" class="form-control" name="pAmount" id="total" onkeypress='return event.charCode >= 48 && event.charCode <= 57' placeholder="Tutar" required required data-required-message="Lütfen işaretli yerleri doldurunuz">
