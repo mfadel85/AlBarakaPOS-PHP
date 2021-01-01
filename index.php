@@ -264,7 +264,7 @@ Yasal olarak buradaki ödeme sistemi ile yapılan normal/3D ödeme işlemlerinde
                     event.preventDefault();
                     alert("Lütfen alanları boş bırakmıyın");
                 }
-					if(!document.getElementById('agree').checked)
+				if(!document.getElementById('agree').checked)
 				{
 					alert(" Uyarı:  Kredi kartı ödeme koşulları'nı kabul etmelisiniz!");
 						event.preventDefault();
