@@ -200,16 +200,6 @@
                                                 <td>3</td>
                                                 <td id="axess3taksit" class="taksit"></td>
                                                 <td></td>
-											</tr>
-											<tr style="display: none;">
-                                                <td></td>
-                                                <td><input type="radio" name="taksit" value="6F"></td>
-                                                <td><img src="finans-kart.jpeg" height='25' width='140'></td>
-                                                <td>6 Taksit</td>
-                                                <td>% 0</td>
-                                                <td>6</td>
-                                                <td id="axess3taksit" class="taksit"></td>
-                                                <td></td>
 											</tr>											
                                         </table>
                                     </div>
