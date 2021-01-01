@@ -114,10 +114,6 @@
 							</div>
 							<div class="col-xs-3">
 							  <select class="form-control" name="expiry-year" id="expiry-year" required>
-								<option value="17">2017</option>
-								<option value="18">2018</option>
-								<option value="19">2019</option>
-								<option value="20">2020</option>
 								<option value="21">2021</option>
 								<option value="22">2022</option>
 								<option value="23">2023</option>
