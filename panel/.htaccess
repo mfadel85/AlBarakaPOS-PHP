@@ -1,0 +1,6 @@
+AuthGroupFile /dev/null
+AuthUserFile /home/aydimtr1/domains/aydinbilgisayar.com/.htpasswd/public_html/3dodeme/panel/.htpasswd
+AuthName "Yetkili sayfa"
+ErrorDocument 401 "Unauthorized Access"
+require valid-user
+AuthType Basic
