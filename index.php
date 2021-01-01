@@ -271,9 +271,7 @@ Yasal olarak buradaki ödeme sistemi ile yapılan normal/3D ödeme işlemlerinde
 				}
 
             });
-            /*$('input[required]').on('invalid', function() {
-		    this.setCustomValidity($(this).data("required-message"));
-		});*/
+            
             $("#total").blur(function() {
                 total = this.value;
                 totalTL = parseFloat(total.replace(",", "."));
